@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Stats, Item, Value } from './StatisticsStyled';
+import { Stats, Item } from './StatisticsStyled';
 
 export const Statistics = ({
   good,
